@@ -1,2 +1,1 @@
-# myfastproject-
-simple project 
+cd report
